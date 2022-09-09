@@ -11,7 +11,7 @@
 -  1.5 years working in Japan as a Front-End Dev and Project Manager 🏯
 - 0.5 years working as a Data Viz Engineer in Grenoble 🥖
 - 1.5 years working as a Full Stack Dev in Grenoble *-I am bad at Java, don't ask-* ☕
-- 1 year working as a Full Stack Dev in Lyon *-still bad at Java-* 🎪
+- 1.5 year working as a Full Stack Dev in Lyon *-still bad at Java-* 🎪
 - I have been working as a freelancer since then (after some break because **I could**) 🌸
 
 ## Stack ⭐
