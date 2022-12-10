@@ -24,4 +24,4 @@
 <img align=center src="https://github.com/sxxnx/sxxnx/blob/main/assets/contact.gif?raw=true" alt="gif coding">
 
 ## Contact 💌
-[<img alt="twitter/sk_sxxnx" src="https://img.shields.io/badge/-twitter sk_sxxnx-white?style=for-the-badge&logo=twitter">](https://twitter.com/sk_seona) <img alt="sksk#6145" src="https://img.shields.io/badge/-discord sksk%236145-white?style=for-the-badge&logo=discord">
+[<img alt="twitter/sk_sxxnx" src="https://img.shields.io/badge/-twitter sk_seona-white?style=for-the-badge&logo=twitter">](https://twitter.com/sk_seona) <img alt="sksk#6145" src="https://img.shields.io/badge/-discord sksk%236145-white?style=for-the-badge&logo=discord">
