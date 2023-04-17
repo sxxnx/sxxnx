@@ -5,7 +5,7 @@
   <img src="https://github.com/sxxnx/sxxnx/blob/main/assets/sub.gif?raw=true" alt="Front end Dev & Data Viz Engineer" />
 </h2>
 
-<img src="https://uploads-ssl.webflow.com/62553805440d0b1277a89b36/628792420bad4523d6bdc516_OD_symbol_8.png" alt="Only Dust logo" height=15> I am currently contributing to [Only Dust](https://www.onlydust.xyz) and working some other **freelance projects**  🥷 
+<img src="https://cdn3.emoji.gg/emojis/6105_KimJongUn_Binocular.png" height='15px'>CTO for Stater and front end dev for [Paladin](https://paladin.vote)
 
 ## XP 🌱
 -  1.5 years working in Japan as a Front-End Dev and Project Manager 🏯
