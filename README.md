@@ -1,11 +1,8 @@
-<h1 align="center">
-  <img src="https://github.com/sxxnx/sxxnx/blob/main/assets/Intro.gif?raw=true" alt="Hi I am SK" />
-</h1>
-<h2 align="center">
-  <img src="https://github.com/sxxnx/sxxnx/blob/main/assets/sub.gif?raw=true" alt="Front end Dev & Data Viz Engineer" />
+<h1 align="center">Hi I am SK</h1>
+<h2 align="center">Front end Dev & Data Viz Engineer
 </h2>
 
-<img src="https://cdn3.emoji.gg/emojis/6105_KimJongUn_Binocular.png" height='15px'> CTO for Stater and front end dev for [Paladin](https://paladin.vote)
+<img src="https://cdn3.emoji.gg/emojis/6105_KimJongUn_Binocular.png" height='15px'>Front end dev for [Paladin](https://paladin.vote)
 
 ## XP 🌱
 -  1.5 years working in Japan as a Front-End Dev and Project Manager 🏯
