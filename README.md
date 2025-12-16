@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-seona.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](www.seona.dev)
+[![Portfolio](https://img.shields.io/badge/-seona.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.seona.dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sk_seona)
 
 </div>
