@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.bloggif.com/tmp/9da7bf6179b1a44b5585d8a862e613ee/text.gif?1765890996"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Front-end+Developer;Web3+%26+DeFi+Specialist;Data+Visualization+Expert)](https://seona.dev)
 
 </div>
